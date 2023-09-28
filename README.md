@@ -132,7 +132,7 @@ node .
 
 
 ## Thanks To
-```bash
+```
 𝐀𝐮𝐭𝐡𝐨𝐫 : YukiMods
 Base : Nurutomo and Elaina
 Supported By Vynaa Chan and Xyroinee
