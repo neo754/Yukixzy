@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./src/thumbnail.png" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/c9b55c04a54653fa5511a.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">Yaemiko - MD</h1>
 
