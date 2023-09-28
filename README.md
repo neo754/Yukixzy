@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://telegra.ph/file/c9b55c04a54653fa5511a.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Yaemiko - MD</h1>
+<h1 align="center">Yuki Bot - MD</h1>
 
 
 ## Baca Sebelum Pakai!!
@@ -29,12 +29,7 @@
 ---------
 
 ##
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285760451683) 
-
-##
-[![Uptime Status](https://api.netlify.com/api/v1/badges/074dc5c6-dc02-47eb-afdb-f504d226ba3b/deploy-status)](https://app.netlify.com/sites/nao-md/deploys)
-<a><img src="https://img.shields.io/badge/Maintaned%3F-Actively%20Developed-blue?style=flat-square"></a>
----------
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62857106777263) 
 
 ## ```Heroku Buildpack```
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ShirokamiRyzen/Nao-MD)
@@ -138,9 +133,9 @@ node .
 
 ## Thanks To
 ```bash
-𝐀𝐮𝐭𝐡𝐨𝐫 : Xyroinee
+𝐀𝐮𝐭𝐡𝐨𝐫 : YukiMods
 Base : Nurutomo and Elaina
-Supported By Vynaa Chan
+Supported By Vynaa Chan and Xyroinee
 Thanks To : 
 - Adiwajshing (Author Baileys)
 - Nurutomo (Author Wabot-Aq)
